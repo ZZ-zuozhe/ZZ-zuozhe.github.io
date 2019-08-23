@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[关于]]></title>
     <url>%2F2019%2F08%2F22%2F%E5%85%B3%E4%BA%8E%2F</url>
-    <content type="text"><![CDATA[关于我你好，我是GJY，也就是ZZ作者，你可以叫我ZZ！现初三，就读于某外国语学校！目前在努力奔向中考目标的路上努力前行，不过一直有时不务正业，学学OI，打打Cfcodeforces，不是crossfire，糊糊音游，瞎开开脑洞之类的@_@现在要努力，高中就可以名正言顺地搞OI了！关于此博客这个博客创建于2019年8月22日，一个ZZ找不到事干的下午~ 参考教程：https://blog.csdn.net/ainuser/article/details/77609180 大家也可以试试（虽然比较麻烦]]></content>
+    <content type="text"><![CDATA[关于我你好，我是GJY，也就是ZZ作者，你可以叫我ZZ！现初三，就读于某外国语学校！目前在努力奔向中考目标的路上努力前行，不过一直有时不务正业，学学OI，打打Cfcodeforces，不是crossfire，糊糊音游，瞎开开脑洞之类的@_@现在要努力，高中就可以名正言顺地搞OI了！关于此博客这个博客创建于2019年8月22日，一个ZZ找不到事干的下午~ 参考教程： https://blog.csdn.net/ainuser/article/details/77609180 https://dgsyrc.github.io/2019/02/01/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E6%8C%87%E5%8C%97%E4%B9%A6%EF%BC%89/ https://www.luogu.org/blog/Venus/build-hexo-github-blog 具体过程因电脑配置而异，大家也可以试试（虽然比较麻烦 重要提示：如果使用第二个教程，不要使用其中给出的next 6.7.0主题的下载地址，请打开博客根目录后在Git Bash中输入git clone https://github.com/theme-next/hexo-theme-next themes/next下载最新版本]]></content>
       <tags>
         <tag>个人</tag>
       </tags>
