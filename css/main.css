@@ -1706,7 +1706,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1bb6e3;
+  background: #52ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2348,7 +2348,7 @@ ul.breadcrumb li+li:last-child {
   }
 }
 .header-inner {
-  background: #fff;
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   overflow: hidden;
@@ -2383,7 +2383,7 @@ ul.breadcrumb li+li:last-child {
   }
 }
 .content-wrap {
-  background: #fff;
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   box-sizing: border-box;
@@ -2408,7 +2408,7 @@ ul.breadcrumb li+li:last-child {
   }
 }
 .sidebar {
-  background: #eee;
+  background: rgba(255,255,255,0.7);
   box-shadow: none;
   float: left;
   margin-left: -100%;
@@ -2591,11 +2591,12 @@ ul.breadcrumb li+li:last-child {
   content: initial;
 }
 .use-motion .sidebar .motion-element {
-  opacity: 1;
+  opacity: 0.8;
 }
 .sidebar {
   bottom: auto;
   right: auto;
+  opacity: 0.7;
 }
 .sidebar a,
 .sidebar span.exturl {
@@ -2607,7 +2608,7 @@ ul.breadcrumb li+li:last-child {
   color: #222;
 }
 .sidebar-inner {
-  background: #fff;
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   box-sizing: border-box;
@@ -2710,7 +2711,7 @@ ul.breadcrumb li+li:last-child {
   padding: initial;
 }
 .post-block {
-  background: #fff;
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   padding: 40px;
@@ -2846,4 +2847,10 @@ ul.breadcrumb li+li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
