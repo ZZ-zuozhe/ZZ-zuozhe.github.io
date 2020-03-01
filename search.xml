@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>一个简单的物理证明</title>
+    <url>/2020/03/01/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%89%A9%E7%90%86%E8%AF%81%E6%98%8E/</url>
+    <content><![CDATA[<p><strong>求证：当物体通过凸透镜呈倒立放大实像时，向右移动物体和光屏并保持光屏上呈清晰的像，则光屏移动速度 $&gt;$ 物体移动速度</strong></p><p>设物距为 $u$ ，像距为 $v$ ，凸透镜焦距为 $f$ </p><p>并且由图中的情况，令 $f&lt;v&lt;2f,v&gt;2f$</p><p>则由之前学过的一个公式得</p><p>$ \frac{1}{u}+\frac{1}{v}=\frac{1}{f}$……①</p><a id="more"></a>
+
+
+
+
+<p>这时候，在保持成清晰像的情况下，保持凸透镜焦距不变，把蜡烛和光屏向右动</p>
+<p>则有$ \frac{1}{u-\Delta u}+\frac{1}{v+\Delta v}=\frac{1}{f}$……②</p>
+<p>处理以上两式：</p>
+<p>$fu+fv=uv$……③</p>
+<p>$ fv+f\Delta v+fu-f\Delta u=uv+u\Delta v -v\Delta u-\Delta v\Delta u$……④</p>
+<p>④$-$ ③得：</p>
+<p>$f\Delta v-f\Delta u=u\Delta v -v\Delta u-\Delta v\Delta u$……⑤</p>
+<p>和谐一下：</p>
+<p>$(f-u+\Delta u)\Delta v=(f-v)\Delta u$</p>
+<p>其中，按照我们设的，$u-\Delta u$ 即为移动后的 $u’$</p>
+<p>则 $(f-u’)\Delta v=(f-v)\Delta u$</p>
+<p>两边同除 $(f-u’)\Delta u$:</p>
+<p>$\frac{\Delta v}{\Delta u}=\frac{f-v}{f-u’}$……⑥</p>
+<p>然后就很神奇了</p>
+<p>因为我们开头设 $f&lt;v&lt;2f,v&gt;2f$，这里能得出：</p>
+<p>$f-v&gt;f-u’$</p>
+<p>也就是：</p>
+<p>$\frac{f-v}{f-u’}&gt;1$……⑦</p>
+<p>可以带入⑥！！！于是： $\frac{\Delta v}{\Delta u}&gt;1$</p>
+<p>即： $\Delta v&gt;\Delta u$</p>
+<p>也就是，光屏的速度应该大于物体的速度</p>
+<p><strong>证毕。</strong></p>
+<p>后记：</p>
+<p>推物理式子，好 快 活 啊（虽然结论比较显然……</p>
+<p>小透明似乎是第一次被理科老师表扬？？？</p>
+<p>群里的图片有个符号写反了不过无伤大雅（您的科学精神呢？</p>
+<p>请允许我膨胀一会djsuwgvxjgcoepqpbfbe</p>
+<p>（在？膨胀完了去把政史背了吧？</p>
+]]></content>
+      <tags>
+        <tag>学习</tag>
+        <tag>文化课</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>南线研学游记</title>
     <url>/2020/02/25/%E5%8D%97%E7%BA%BF%E7%A0%94%E5%AD%A6%E6%B8%B8%E8%AE%B0/</url>
     <content><![CDATA[<p>度过了充实，有些混乱而欢乐的南线研学，遂作此文以记之。</p><h2 id="Day-0-出发日"><a href="#Day-0-出发日" class="headerlink" title="$Day$ $0$ 出发日"></a>$Day$ $0$ 出发日</h2><p>三阶考完，没有体测，成绩未出，梦幻旅程！</p><p>出发！</p><p>坐地铁到了东站，和同学集合，和预想中的一样，我们四班声势浩大的队伍让外班人蒙蔽不已。</p><blockquote>
@@ -124,7 +166,6 @@
 <p><strong>南线研学游记 · 完</strong></p>
 ]]></content>
       <tags>
-        <tag>个人</tag>
         <tag>日常</tag>
       </tags>
   </entry>
@@ -162,8 +203,7 @@
 <p>后续剧情，请见<strong>南线研学游记</strong></p>
 ]]></content>
       <tags>
-        <tag>个人</tag>
-        <tag>日常</tag>
+        <tag>学习</tag>
         <tag>考试游记</tag>
       </tags>
   </entry>
@@ -221,8 +261,7 @@
 <p>不管怎样下次加油吧。。。</p>
 ]]></content>
       <tags>
-        <tag>个人</tag>
-        <tag>日常</tag>
+        <tag>学习</tag>
         <tag>考试游记</tag>
       </tags>
   </entry>
@@ -420,9 +459,8 @@
 <p>（准个屁）</p>
 ]]></content>
       <tags>
-        <tag>日常</tag>
-        <tag>考试游记</tag>
         <tag>学习</tag>
+        <tag>考试游记</tag>
       </tags>
   </entry>
   <entry>
