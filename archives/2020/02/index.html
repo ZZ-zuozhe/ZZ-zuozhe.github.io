@@ -7,6 +7,16 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
+<script>
+    (function(){
+        if(''){
+            if (prompt('这篇博文被设为私有了>.<请输入文章密码') !== ''){
+                alert('你不能进来QAQ窝不认识你');
+                history.back();
+            }
+        }
+    })();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
 <meta name="theme-color" content="#222">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,6 +63,7 @@
     }
   };
 </script>
+
 
   <meta property="og:type" content="website">
 <meta property="og:title" content="ZZ&#39;s Blog">
