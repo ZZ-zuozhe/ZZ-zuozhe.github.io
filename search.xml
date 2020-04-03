@@ -466,25 +466,6 @@
       </tags>
   </entry>
   <entry>
-    <title>关于</title>
-    <url>/2019/08/22/%E5%85%B3%E4%BA%8E/</url>
-    <content><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>你好，我是<code>GJY</code>，也就是<code>ZZ作者</code>，你可以叫我<code>ZZ</code>！</p><p>现初三，就读于某外国语学校！</p><p>目前在努力奔向中考目标的路上努力前行，不过<del>一直</del>有时不务正业，学学OI，打打Cf<code>codeforces，不是crossfire</code>，糊糊音游，瞎开开脑洞之类的@_@</p><p>现在要努力，高中就可以名正言顺地搞OI了！</p><h2 id="关于此博客"><a href="#关于此博客" class="headerlink" title="关于此博客"></a>关于此博客</h2><p>这个博客创建于<code>2019年8月22日</code>，一个ZZ找不到事干的下午~</p><a id="more"></a>
-
-
-
-
-<p>参考教程：</p>
-<p><a href="https://blog.csdn.net/ainuser/article/details/77609180" target="_blank" rel="noopener">https://blog.csdn.net/ainuser/article/details/77609180</a>  </p>
-<p><a href="https://dgsyrc.github.io/2019/02/01/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E6%8C%87%E5%8C%97%E4%B9%A6%EF%BC%89/" target="_blank" rel="noopener">https://dgsyrc.github.io/2019/02/01/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E6%8C%87%E5%8C%97%E4%B9%A6%EF%BC%89/</a></p>
-<p><a href="https://www.luogu.org/blog/Venus/build-hexo-github-blog" target="_blank" rel="noopener">https://www.luogu.org/blog/Venus/build-hexo-github-blog</a></p>
-<p>具体过程因电脑配置而异，大家也可以试试（虽然比较麻烦</p>
-<p><strong>重要提示：如果使用第二个教程，不要使用其中给出的next 6.7.0主题的下载地址，请打开博客根目录后在Git Bash中输入<code>git clone https://github.com/theme-next/hexo-theme-next themes/next</code>下载最新版本</strong></p>
-]]></content>
-      <tags>
-        <tag>个人</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Noip2018 PJ初赛总结</title>
     <url>/2018/10/14/Noip2018PJ%E5%88%9D%E8%B5%9B%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>本篇首次发布于<a href="https://www.luogu.com.cn/blog/ZZprogramming/noip2018-pu-ji-chu-sai-zong-jie" target="_blank" rel="noopener">洛谷博客</a>，于2020年3月22日补档</p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>第一次参加 $OI$ 比赛，因为刚入 $OI$ 2个月，能考出这样的成绩也算是超常发挥了？就写个赛后总结来记录吧。</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>普及初赛13日下午在二中举行，考之前慌得一P，座位旁边一同校神犇，发卷后低声嘟囔：今年题好水啊，我无地自容……</p><h3 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h3><p>选择题大体来说还比较友好，今年变成了15×2分的题</p><a id="more"></a>
