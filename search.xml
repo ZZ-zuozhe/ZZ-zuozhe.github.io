@@ -1,506 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>一个简单的物理证明</title>
-    <url>/2020/03/01/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%89%A9%E7%90%86%E8%AF%81%E6%98%8E/</url>
-    <content><![CDATA[<p><strong>求证：当物体通过凸透镜呈倒立放大实像时，向右移动物体和光屏并保持光屏上呈清晰的像，则光屏移动速度 $&gt;$ 物体移动速度</strong></p><p>设物距为 $u$ ，像距为 $v$ ，凸透镜焦距为 $f$ </p><p>并且由图中的情况，令 $f&lt;v&lt;2f,v&gt;2f$</p><p>则由之前学过的一个公式得</p><p>$ \frac{1}{u}+\frac{1}{v}=\frac{1}{f}$……①</p><a id="more"></a>
-
-
-
-
-<p>这时候，在保持成清晰像的情况下，保持凸透镜焦距不变，把蜡烛和光屏向右动</p>
-<p>则有$ \frac{1}{u-\Delta u}+\frac{1}{v+\Delta v}=\frac{1}{f}$……②</p>
-<p>处理以上两式：</p>
-<p>$fu+fv=uv$……③</p>
-<p>$ fv+f\Delta v+fu-f\Delta u=uv+u\Delta v -v\Delta u-\Delta v\Delta u$……④</p>
-<p>④$-$ ③得：</p>
-<p>$f\Delta v-f\Delta u=u\Delta v -v\Delta u-\Delta v\Delta u$……⑤</p>
-<p>和谐一下：</p>
-<p>$(f-u+\Delta u)\Delta v=(f-v)\Delta u$</p>
-<p>其中，按照我们设的，$u-\Delta u$ 即为移动后的 $u’$</p>
-<p>则 $(f-u’)\Delta v=(f-v)\Delta u$</p>
-<p>两边同除 $(f-u’)\Delta u$:</p>
-<p>$\frac{\Delta v}{\Delta u}=\frac{f-v}{f-u’}$……⑥</p>
-<p>然后就很神奇了</p>
-<p>因为我们开头设 $f&lt;v&lt;2f,v&gt;2f$，这里能得出：</p>
-<p>$f-v&gt;f-u’$</p>
-<p>也就是：</p>
-<p>$\frac{f-v}{f-u’}&gt;1$……⑦</p>
-<p>可以带入⑥！！！于是： $\frac{\Delta v}{\Delta u}&gt;1$</p>
-<p>即： $\Delta v&gt;\Delta u$</p>
-<p>也就是，光屏的速度应该大于物体的速度</p>
-<p><strong>证毕。</strong></p>
-<p>后记：</p>
-<p>推物理式子，好 快 活 啊（虽然结论比较显然……</p>
-<p>小透明似乎是第一次被理科老师表扬？？？</p>
-<p>群里的图片有个符号写反了不过无伤大雅（您的科学精神呢？</p>
-<p>请允许我膨胀一会djsuwgvxjgcoepqpbfbe</p>
-<p>（在？膨胀完了去把政史背了吧？</p>
-]]></content>
-      <tags>
-        <tag>学习</tag>
-        <tag>文化课</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>南线研学游记</title>
-    <url>/2020/02/25/%E5%8D%97%E7%BA%BF%E7%A0%94%E5%AD%A6%E6%B8%B8%E8%AE%B0/</url>
-    <content><![CDATA[<p>度过了充实，有些混乱而欢乐的南线研学，遂作此文以记之。（本文加密）</p>
-<a id="more"></a>
-
-<h2 id="Day-0-出发日"><a href="#Day-0-出发日" class="headerlink" title="$Day$ $0$ 出发日"></a>$Day$ $0$ 出发日</h2><p>三阶考完，没有体测，成绩未出，梦幻旅程！</p>
-<p>出发！</p>
-<p>坐地铁到了东站，和同学集合，和预想中的一样，我们四班声势浩大的队伍让外班人蒙蔽不已。</p>
-<blockquote>
-<p>本次研学团学生共59人，其中4班占36人</p>
-</blockquote>
-<p><strong>南线研学旅游团 $\rightarrow$ 厚朴四班观光团</strong></p>
-<p>于是我们班包了一节硬卧车。</p>
-<p>中铺，不错，锻炼攀爬技巧，且翻车风险较低。</p>
-<p>对面是 $lzxt$，$lzxt$ 上面是 $ld$，好了，苏维埃分间安排上了</p>
-<blockquote>
-<p>$lzxt$：明天我6:30起来给你们放SL国歌</p>
-<p>我：害怕.jpg</p>
-</blockquote>
-<p>和 $zpr$ , $zwb$ , $xjx$ , $lxy$ , $ld$ 打牌<del>开火车</del>，大概到九点多，主任来催睡觉了</p>
-<p>于是回铺，又看了会儿下铺女生们玩剧情杀</p>
-<blockquote>
-<p>女生们：balabala吸毒balabala私生子balabalabala</p>
-<p>我：？？？这也太入戏了吧？？？</p>
-</blockquote>
-<p>过了一会儿熄灯了，于是乖乖躺下</p>
-<p>非常兴奋，睡不着，大概熬到了23:00。</p>
-<h2 id="Day-1"><a href="#Day-1" class="headerlink" title="$Day$ $1$"></a>$Day$ $1$</h2><h3 id="失眠"><a href="#失眠" class="headerlink" title="失眠"></a>失眠</h3><p>1:00，我醒了。</p>
-<p>被泰山站的灯活活照醒的。</p>
-<p>灯太亮，帘子太薄，以至于旁边的 $lzxt$ 和 $ld$ 也醒了</p>
-<p>扭头一看，我*怎么你也醒了，场面一度十分尴尬</p>
-<p>老 $J$ 突然走过来，然后我们才知道一堆人甚至睡都没睡</p>
-<p><del>那还睡个腚啊，起来嗨！！！</del>（当然是不可能的）</p>
-<p>于是，僵卧铺上，心如止水，我要睡，我要睡，我要睡……</p>
-<p>我要睡，我要睡！我！！要！！睡！！！！（逐渐暴躁）</p>
-<p>旁边的 $ld$ 和 $lzxt$ 已经睡了，这时我突然意识到，我失眠了。</p>
-<p>2:00，我没睡着。</p>
-<p>2:30，我没睡着。</p>
-<p>3:00，我没睡着。</p>
-<p>忽然想起，包里有学校要求带的作业</p>
-<p>于是果断开始写作业，我就不信这样我还困不了</p>
-<p>4:30，我信了。</p>
-<p>站在车厢连接处，写了十来个Unit的单词，我愣是没困。</p>
-<p>一众失眠的同学们在狭窄的走廊里游荡，$ld$ 和 $lzxt$ 已经开始吃早饭了</p>
-<p>没带多少吃的，不敢吃，于是又混了1h，5:40，吃上了鲜虾鱼板面。</p>
-<p> <img src="/images/loading.png" data-original="%E6%96%B9%E4%BE%BF%E9%9D%A2.jpg" alt="人间美味"> </p>
-<p>好吃，香，甜。</p>
-<p>过了一会儿大家几乎都醒了，开始交流昨夜睡眠体验，逐渐演变为攀比谁最能熬</p>
-<p><del>（我睡两个小时你能秒我？要是有人连两个小时都没睡够，我当场！就把这个电脑屏幕吃掉！！！</del></p>
-<p>最后还是怂了，补了2小时的觉</p>
-<p>再后来就是欢乐的打牌，吃零食，网易云音乐，十点多就到南京了。</p>
-<h3 id="小插曲"><a href="#小插曲" class="headerlink" title="小插曲"></a>小插曲</h3><p>午餐的时候发现今天是同桌 $ylf$ 的生日？？？</p>
-<p>于是旅行团送了个蛋糕，全团人分着吃了，真不错awa</p>
-<p>（我太屑了居然没记住他生日，只能给他白嫖充电宝来谢罪了</p>
-<p> <img src="/images/loading.png" data-original="ylf.jpg" alt> </p>
-<h3 id="中山陵"><a href="#中山陵" class="headerlink" title="中山陵"></a>中山陵</h3><p>数台阶真有意思</p>
-<p>顺着下坡路蹦跶真有意思</p>
-<p>另外不少女生被小贩坑了十来块钱……当时一眼就看出来那个沙雕魔术的原理了不过……她们开心就好吧</p>
-<p> <img src="/images/loading.png" data-original="%E8%80%81%E9%BC%A0%E5%B1%8E.jpg" alt></p>
-<p>奇怪的食物增加了！ </p>
-<h3 id="南大"><a href="#南大" class="headerlink" title="南大"></a>南大</h3><p>总结：投影很先进，座椅很舒服，小哥哥很帅，厕所设计理念也很先进，欢迎报考南京大学。</p>
-<h3 id="酒店"><a href="#酒店" class="headerlink" title="酒店"></a>酒店</h3><p>“严禁黄赌毒，严禁携带笑气“</p>
-<p>原来笑气是 $\ce{N2O}$ ，不愧是我嘿</p>
-<p>和 $zpr$ , $lxy$ , $zwb$ , $xjx$ 打牌，斗地主，升级（打法逐渐触及知识盲区</p>
-<p>大概昨天晚上太豪放了，很早就虚了，回房碎觉</p>
-<h2 id="Day-2"><a href="#Day-2" class="headerlink" title="$Day$ $2$"></a>$Day$ $2$</h2><h3 id="西湖"><a href="#西湖" class="headerlink" title="西湖"></a>西湖</h3><p>早上去西湖，起雾了，而且下着雨，莫名朦胧美？拍得太丑，不放了</p>
-<p>$ylf$ 买了根烤肠（-为什么要记这种事啊喂！-实在没事记，没办法</p>
-<h3 id="浙大"><a href="#浙大" class="headerlink" title="浙大"></a>浙大</h3><p>拼榫卯真有意思</p>
-<p>拍合影真没意思</p>
-<p>（不，我不是针对拍合影，我指的是那种下着雨还要收伞反复拍的那种合影</p>
-<h3 id="车上"><a href="#车上" class="headerlink" title="车上"></a>车上</h3><p>突然发现坐车的时间好好好好好好好长……</p>
-<p><strong>厚朴四班观光团 $\rightarrow$ 交通工具鉴赏团</strong></p>
-<p>于是狂睡，被 $zpr$ 拍到了帅气睡照（你听听这说的是人话吗</p>
-<h3 id="上外"><a href="#上外" class="headerlink" title="上外"></a>上外</h3><p>上外的校史馆，1层似乎跟校史没关系，于是补了点语言知识？</p>
-<p>送了纪念品，笔&amp;胸章，这就直接成为了其他学校比不上的存在</p>
-<p>上海的雨也很大……（怕不是我们走到哪雨就下到哪）感谢 $zwb$ 给我蹭伞</p>
-<p><img src="/images/loading.png" data-original="%E4%B8%8A%E5%A4%96.jpg" alt></p>
-<p>鸡排，鸡蛋羹，鱼，水果，上外nb！</p>
-<p>（上外大概是本次最有诚意的一所学校了</p>
-<h3 id="外滩"><a href="#外滩" class="headerlink" title="外滩"></a>外滩</h3><p><img src="/images/loading.png" data-original="%E5%A4%96%E6%BB%A9.jpg" alt></p>
-<p>唯一的感受：繁华。</p>
-<blockquote>
-<p>某xld：本次研学不设购物环节</p>
-</blockquote>
-<p>然后我们就在一个小店里买了一堆纪念品（以及天价方便面</p>
-<h3 id="5016"><a href="#5016" class="headerlink" title="5016"></a>5016</h3><p>又到了小朋友们最爱的宾馆休息环节了</p>
-<p>手机上的舟游下好了，这就很舒服了</p>
-<p>于是一群男生（大概10个）溜到5016，<del>吃喝嫖赌</del></p>
-<p>零食铺了一床，$hz$ , $zjf$ , 老 $J$ 他们在打三国杀，$lft$ , $ylf$ 打王者，$ld$ 和 $lzxt$ 日常F1，我就泡了碗面在旁边卑微打舟游剿灭</p>
-<p>后来他们大家都打起了王者，$ylf$ 似乎因为某种原因被各种D</p>
-<p>期间几次有人敲门，敲完就跑，<del>我们好不容易挤进窗帘后面你就这样对我们</del></p>
-<p>舒舒服服，搞事到十点多，碎觉</p>
-<h2 id="Day-3-返程日"><a href="#Day-3-返程日" class="headerlink" title="$Day$ $3$ 返程日"></a>$Day$ $3$ 返程日</h2><p>虽说是最后一天，要看的学校却是最多的……</p>
-<p>雨还没停，再次感谢 $zwb$ 给我蹭伞</p>
-<p>SH真大啊……<del>实名羡慕</del></p>
-<h3 id="早饭"><a href="#早饭" class="headerlink" title="早饭"></a>早饭</h3><p><img src="/images/loading.png" data-original="%E6%97%A9%E9%A4%90.jpg" alt></p>
-<p>不得不说，到了上海以后伙食质量是真的大提升</p>
-<p>同样是自助，<del>就比前一天的看起来资本主义很多</del></p>
-<p>不过那个烤面包机的作用似乎就只是给面包上个色……</p>
-<h3 id="复旦"><a href="#复旦" class="headerlink" title="复旦"></a>复旦</h3><p>来之前对复旦的唯一印象：老番茄</p>
-<p><img src="/images/loading.png" data-original="%E5%85%89%E8%8D%89.jpg" alt></p>
-<p>果然看到了光草但是……全湿了，打滚的事还是别想了</p>
-<h3 id="财大"><a href="#财大" class="headerlink" title="财大"></a>财大</h3><p>来之前对财大的唯一印象：财大nb！<del>（请适度玩梗谢谢</del></p>
-<p><img src="/images/loading.png" data-original="cp.jpg" alt></p>
-<p>啊啊啊 这对cp我站了！</p>
-<h3 id="上交"><a href="#上交" class="headerlink" title="上交"></a>上交</h3><p>来之前对上交的唯一印象：上海脚痛大学<del>（宁还玩上瘾了？</del></p>
-<h3 id="返程"><a href="#返程" class="headerlink" title="返程"></a>返程</h3><p>本来返程也是卧铺，然而第二天要返校，于是学校就让我们加钱订了更快的高铁</p>
-<p><del>（我谢谢你啊？</del></p>
-<p>于是我们全班就要在同一节车厢上一起坐六七个小时</p>
-<p>先跟还是那拨人打了会儿牌，然后不知道什么时候，群里开始发画图红包</p>
-<p><img src="/images/loading.png" data-original="%E6%8A%BD%E8%B1%A1.jpg" alt></p>
-<p>瞬间沸腾，开始了抽象画技交流，抢1分不亦乐乎</p>
-<p>老 $J$ 了一堆毒瘤语音红包，导致车厢里一度充满了“哈哈呼呼哈嘿嘿”之类的声音</p>
-<p>牛奶就榨菜，香蕉就面包<del>，臭豆腐，俘虏，老干妈，简简单单的晚饭</del>（串味儿了喂</p>
-<p>看 $lxy$ 打部落冲突（还是叫皇室战争来着？记不清了</p>
-<p>充当人肉天线<del>（求神拜佛</del></p>
-<p>欢乐补研学手册<del>，我们都是祖安人</del></p>
-<p>然后发现很多人开始写作业了，想起自己带的作业第一天以后没动过，于是把单词篇子糊完了</p>
-<p>合上单词篇子，收拾行李，小破庄，我回来了。</p>
-<h2 id="Day-n-后记"><a href="#Day-n-后记" class="headerlink" title="$Day$ $n$ 后记"></a>$Day$ $n$ 后记</h2><p>感觉还是得记一下这次研学，所以把鸽了好长时间的坑又补回来了</p>
-<p>虽然这几天很短暂，但我很开心，在毕业的最后一年，这个机会显得尤为珍贵</p>
-<p><strong>不久的将来，当我们不得不在初中的终点站下车，在中考的枢纽各奔东西，我们都将带上回忆的行李，永不丢弃。</strong></p>
-<p><strong>南线研学游记 · 完</strong></p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>九上三阶游记</title>
-    <url>/2020/01/12/%E4%B9%9D%E4%B8%8A%E4%B8%89%E9%98%B6%E6%B8%B8%E8%AE%B0/</url>
-    <content><![CDATA[<p>之前一阶、二竞和二阶都咕掉了……三阶是这学期最后一次考试了，所以趁着没出成绩心态良好赶来 $mark$ 一下。</p><h2 id="Day-3"><a href="#Day-3" class="headerlink" title="$Day$ $-3$"></a>$Day$ $-3$</h2><p>考试前几天的时候心态崩了……（MVP：语文赏析），感觉整个人都虚掉了，以至于翘了一节语文早读在家里思考人生……</p><p>本来不想去了，但是第一节历史？？？</p><p>最后在$ylf$沙雕气息的感染下好了一些，不过感觉很不想考试……</p><a id="more"></a>
-
-
-
-<h2 id="Day-1"><a href="#Day-1" class="headerlink" title="$Day$ $-1$"></a>$Day$ $-1$</h2><p>政治课，桥桥把九下重点标了，全班惊奇的发现原来就那么一点</p>
-<p>这就好起来了。</p>
-<p><code>信心++</code></p>
-<h2 id="Day-0"><a href="#Day-0" class="headerlink" title="$Day$ $0$"></a>$Day$ $0$</h2><p>最后一晚，把语文赏析硬啃了下去，似乎也不那么难？（你大概不记得你前几天还被他虐哭）</p>
-<p>放弃其它挣扎，睡jiojio</p>
-<h2 id="Day-1-2"><a href="#Day-1-2" class="headerlink" title="$Day$ $1-2$"></a>$Day$ $1-2$</h2><p>利润可以是负的</p>
-<p>英语是可以考法语的</p>
-<p>作文是可以用来奶自己的</p>
-<p>考间是可以量子波动复习的</p>
-<p>另外，我还意识到我是一个在在欢迎会上向外国友人致感谢词时也不忘传播中华文化的社会主义优秀接班人</p>
-<h3 id="小插曲"><a href="#小插曲" class="headerlink" title="小插曲"></a>小插曲</h3><p>周一温度$1$~$-11$，然而素质学校这时体测，然后</p>
-<p>第一天晚上一群人拿着各种容器往操场上倒水</p>
-<p>第二天早上全冻结实了哈哈哈哈哈哈哈哈哈哈</p>
-<p>卓越学子展现出了空前的团结</p>
-<p><code>卓越学子多才俊 是否体测未可知</code></p>
-<h2 id="Day-3-1"><a href="#Day-3-1" class="headerlink" title="$Day$ $3$"></a>$Day$ $3$</h2><p><strong>奇迹发生了。</strong></p>
-<p>操场上的人造冰最终没化开……体测推迟1天</p>
-<p><strong>但是！！！</strong></p>
-<blockquote>
-<p>南线研学团出发时间：2月13日晚</p>
-<p>研学同学体测取消，计入二阶体育成绩</p>
-</blockquote>
-<p><strong>吔！！！！！！！！！</strong></p>
-<p>（他似乎忘了自己二阶体育扣了1分）</p>
-<p>后续剧情，请见<strong>南线研学游记</strong></p>
-]]></content>
-      <tags>
-        <tag>考试游记</tag>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>九上一竟游记</title>
-    <url>/2019/09/22/%E4%B9%9D%E4%B8%8A%E4%B8%80%E7%AB%9F%E6%B8%B8%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="考前"><a href="#考前" class="headerlink" title="考前"></a>考前</h2><p>因为这次语文考察基础和名著，数外都正常考法，复习就成了一个比较玄学的事情，太细了搞不完，太粗了又怕翻车，所以过程中基本一直在<code>？？？</code>中度过</p><h2 id="考中"><a href="#考中" class="headerlink" title="考中"></a>考中</h2><h3 id="语文"><a href="#语文" class="headerlink" title="语文"></a>语文</h3><p>果然是基础题，但是还是有拿不准的字音，名著题还算比较和谐，没有什么鸡牛同笼之类的。</p><p><strong>然而你还是考不高</strong></p><h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p>一如既往的卡时交卷，听后桌dalao$XBW$对题，发现自己最后一问错了，写的三个答案两个应该舍，一个没算对，还有一个正确答案根本没想出来</p><a id="more"></a>
-
-
-
-<p><strong>完蛋。</strong></p>
-<h3 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h3><p>打开卷子，<strong>开 幕 雷 击</strong></p>
-<p>审题人emmmmmm……有不祥的预感</p>
-<p>后来的事实证明果然杨老师不鸣则已，一鸣惊人 </p>
-<ul>
-<li>阅读A篇是可以选诗歌的</li>
-<li>阅读BC篇是可以做不出来的</li>
-<li>阅读D篇是可以节选小说的</li>
-<li>作文题是可以<del>摘抄</del>借鉴报纸的</li>
-</ul>
-<p>考完试的我，一脸安详</p>
-<h2 id="考后"><a href="#考后" class="headerlink" title="考后"></a>考后</h2><h3 id="估分"><a href="#估分" class="headerlink" title="估分"></a>估分</h3><p>（这个铁憨憨去找别人对了几个答案</p>
-<p>语文没对，不过知道自己最后捡回来$1pts$，名著答得感觉不太好，可能得扣很多</p>
-<p>数学最后一题先$-2pts/4pts$，其他不知道</p>
-<p>英语选择最后CD都有，不过$JPZ$看过小说原著说选D，那就是我错了，$-2pts$</p>
-<p>考虑了一下这次分数大概是这样：</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>语文-100</th>
-<th>数学-100</th>
-<th>英语-100</th>
-<th>总分</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>最高估计</td>
-<td>94</td>
-<td>98</td>
-<td>97</td>
-<td>289</td>
-</tr>
-<tr>
-<td>最低估计</td>
-<td>85</td>
-<td>95</td>
-<td>94</td>
-<td>274</td>
-</tr>
-</tbody></table>
-<h3 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h3><p>我炸了，彻底炸了</p>
-<p>英语作文玄学没审对题，直接5分没了，数学错填空了，最后的大题送我升天</p>
-<p>于是这次语文考得最高？？？我佛了</p>
-<p>不管怎样下次加油吧。。。</p>
-]]></content>
-      <tags>
-        <tag>考试游记</tag>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>九上返校考试游记</title>
-    <url>/2019/08/24/%E4%B9%9D%E4%B8%8A%E8%BF%94%E6%A0%A1%E8%80%83%E8%AF%95%E6%B8%B8%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="前一天的晚上"><a href="#前一天的晚上" class="headerlink" title="前一天的晚上"></a>前一天的晚上</h2><p>诶这几天是不是要返校考试来着</p><p>……明天？！！</p><p>啊啊啊啊我要死了我政史啥知识点都没背语文三篇长古文也没看啊啊啊啊啊</p><p>（抓起政史看了一会儿后……</p><p>算了看不懂不看了，语文明天起早点背</p><h2 id="当天"><a href="#当天" class="headerlink" title="当天"></a>当天</h2><h3 id="考前"><a href="#考前" class="headerlink" title="考前"></a>考前</h3><p>？？？？为什么起床已经7:30了？？！</p><p>没事8:40才开考我还有救</p><p>……7:50到校交作业？</p><p>（哦豁，完蛋</p><p>$Rush$ 到学校，还是迟到了……</p><a id="more"></a>
-
-
-
-
-
-
-
-
-
-<p>于是最后语文也没看，然后发现昨晚看的政史也忘得差不多了QAQ</p>
-<p>人生不值得.^.</p>
-<h3 id="考试"><a href="#考试" class="headerlink" title="考试"></a>考试</h3><h4 id="第一场-语文"><a href="#第一场-语文" class="headerlink" title="第一场 语文"></a>第一场 语文</h4><p>三篇长古文果然都考到了，然而毫无印象，$-4pts$ ；</p>
-<p>错理解性默写，$-3pts$；</p>
-<p>名著题：格列佛在小人国一天吃多少头牛，多少只鸡？</p>
-<p>我吃你个牛皮螺旋大鸡腿！于是$-2pts$ ；</p>
-<p>然后有一堆奇奇怪怪的注音和写词之类……乐观估计$-2pts$ ；</p>
-<p>这次语文没有阅读，班里最高分大概能到$96-98/100pts$吧……而我现在乐观估计只有$89/100pts$……awsl……</p>
-<hr>
-<h4 id="第二场-数学"><a href="#第二场-数学" class="headerlink" title="第二场 数学"></a>第二场 数学</h4><p>由于之前把自己的底细摸得差不多了，心态倒是没有太崩，似乎没有什么好说的……</p>
-<p>考完对了一道三角函数的答案，似乎对了？？不过不保证没有出其他的$sb$错误，先估个$95-100/100pts$吧……</p>
-<hr>
-<h4 id="第三场-文综"><a href="#第三场-文综" class="headerlink" title="第三场 文综"></a>第三场 文综</h4><p>可以说是我最怕的一场了，作业里政治玄学大题无话可说，历史看书愣没看懂？</p>
-<p>（而且我连政史的九上课本都没买</p>
-<p>做好了觉悟，陪$JPZ$上了可能是一生中最后一次的厕所后，开考了</p>
-<p>先发的是政治，诶选择似乎有八下的题，那就很可做了，九上部分的选择作业里也有（虽然我忘了怎么选）</p>
-<p>然后我看到了$10pts$的大题</p>
-<p>啊啊啊啊啊啊啊怎么办怎么办我一点都没背啊啊啊！</p>
-<p>无奈，只好从前面选择题瞎摘了几句话填上了，混了一会就发历史了</p>
-<p>$OMG$，全是九上</p>
-<p>于是凭着破碎的记忆和大国崛起上的情节苟过了选择</p>
-<p>然后惊喜地发现：<strong>大题全是作业原题啊！</strong>（虽然还是忘了怎么写，但作业那题还挺简单的）</p>
-<p>历史给的时间倒很长，检查了好多遍，就收卷了（虽然也没检查出什么，我本来就不会我还能怎么写）</p>
-<p>两科的选择估计顶多$-8pts$，大题乐观估计$-5pts$左右吧，于是文综$97-105/110pts$滚了……</p>
-<p>$JPZ$背过政治大题的原知识点，祝他$AK$文综</p>
-<hr>
-<h4 id="第四场-英语"><a href="#第四场-英语" class="headerlink" title="第四场 英语"></a>第四场 英语</h4><p>九年级英语书我也没有买，中午加急背单词……（感谢$LZXT$同志）</p>
-<p>然而选词填空该不会的还是不会，差点还没写作文</p>
-<p>选词$-3pts$，作文书写太烂$-2pts$，其他乱七八糟的扣$3-5pts$，最终估分$90-92/100pts$，我凉了</p>
-<hr>
-<h4 id="最终科-理综"><a href="#最终科-理综" class="headerlink" title="最终科 理综"></a>最终科 理综</h4><p>考理综还是比较轻松的，毕竟我暑假不务正业先修了好多理综</p>
-<p>然而看到卷子……好吧，不主要考先修的吗……</p>
-<p>然后就没啥好说的了，我和$JPZ$不谋而合在考场配起了某物质受热分解成$\ce{NH4,H2O,CO2}$的化学式，他说是$\ce{NH4HCO3}$，但我配的是$\ce{(NH4)2CO3}$</p>
-<p>回来查了下，似乎都行，$\ce{NH4HCO3}$受热会先分解成$\ce{(NH4)2CO3,CO2}$和$\ce{H2O}$，$\ce{(NH4)2CO3}$再进一步分解成$\ce{NH4,H2O,CO2}$……</p>
-<p>（喂，你好好考试没有</p>
-<p>理综考得一言难尽……不感觉难，但也不感觉能满，估一个$145-150/150pts$吧……</p>
-<hr>
-<h4 id="估分总结"><a href="#估分总结" class="headerlink" title="估分总结"></a>估分总结</h4><table>
-<thead>
-<tr>
-<th></th>
-<th>语文</th>
-<th>数学</th>
-<th>英语</th>
-<th>文综</th>
-<th>理综</th>
-<th>总分</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>满分</strong></td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
-<td>110</td>
-<td>150</td>
-<td>560</td>
-</tr>
-<tr>
-<td><strong>高估估计</strong></td>
-<td>90</td>
-<td>100</td>
-<td>95</td>
-<td>107</td>
-<td>150</td>
-<td>542</td>
-</tr>
-<tr>
-<td><strong>最高估计</strong></td>
-<td>89</td>
-<td>100</td>
-<td>92</td>
-<td>105</td>
-<td>150</td>
-<td>536</td>
-</tr>
-<tr>
-<td><strong>最低估计</strong></td>
-<td>85</td>
-<td>95</td>
-<td>90</td>
-<td>97</td>
-<td>145</td>
-<td>512</td>
-</tr>
-</tbody></table>
-<p>另外，预测下这次各分数段的分数<strong>（不认真，不准确）</strong>：</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>语文</th>
-<th>数学</th>
-<th>英语</th>
-<th>文综</th>
-<th>理综</th>
-<th>总分</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>班级前三</strong></td>
-<td>96</td>
-<td>100</td>
-<td>97</td>
-<td>108</td>
-<td>150</td>
-<td>551</td>
-</tr>
-<tr>
-<td><strong>班级前十</strong></td>
-<td>92</td>
-<td>100</td>
-<td>95</td>
-<td>106</td>
-<td>148</td>
-<td>541</td>
-</tr>
-</tbody></table>
-<p>总之，感觉有点悬……希望不要开门黑……</p>
-<h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>2019/8/27 出成绩了……</p>
-<p>居然$Rank$ $5$？要被$JPZ$ 锤了……</p>
-<p>政治满分居然是$60$……考 试 欺 诈</p>
-<p>最后的成绩：</p>
-<table>
-<thead>
-<tr>
-<th>语文</th>
-<th>数学</th>
-<th>英语</th>
-<th>文综</th>
-<th>理综</th>
-<th>总分</th>
-<th>排名</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>95</td>
-<td>94</td>
-<td>96</td>
-<td>114</td>
-<td>146</td>
-<td>545</td>
-<td>5</td>
-</tr>
-</tbody></table>
-<p>估分差值：</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>语文</th>
-<th>数学</th>
-<th>英语</th>
-<th>文综</th>
-<th>理综</th>
-<th>总分</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>高估</strong></td>
-<td>+6</td>
-<td>-6</td>
-<td>+4</td>
-<td>-1</td>
-<td>-4</td>
-<td>-1</td>
-</tr>
-<tr>
-<td><strong>低估</strong></td>
-<td>+10</td>
-<td>-1</td>
-<td>+6</td>
-<td>+7</td>
-<td>+1</td>
-<td>+23</td>
-</tr>
-</tbody></table>
-<p>怎么说呢，还挺准的</p>
-<p>（准个屁）</p>
-]]></content>
-      <tags>
-        <tag>考试游记</tag>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Noip2018 PJ初赛总结</title>
-    <url>/2018/10/14/Noip2018PJ%E5%88%9D%E8%B5%9B%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>本篇首次发布于<a href="https://www.luogu.com.cn/blog/ZZprogramming/noip2018-pu-ji-chu-sai-zong-jie" target="_blank" rel="noopener">洛谷博客</a>，于2020年3月22日补档</p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>第一次参加 $OI$ 比赛，因为刚入 $OI$ 2个月，能考出这样的成绩也算是超常发挥了？就写个赛后总结来记录吧。</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>普及初赛13日下午在二中举行，考之前慌得一P，座位旁边一同校神犇，发卷后低声嘟囔：今年题好水啊，我无地自容……</p><h3 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h3><p>选择题大体来说还比较友好，今年变成了15×2分的题</p><a id="more"></a>
-
-
-
-<p>CCF赞歌放在 $T5$，每次都考这种没用的真是……</p>
-<p>$T10$ 是2013年原题……</p>
-<p>$T13$ 考了数论，似乎是选择里第一次考数论？</p>
-<p>$T14$ 考了位运算，也是以前很少考的</p>
-<p>这次好像都没有逻辑运算……这次的题可以说是十分清奇了……</p>
-<h3 id="问题求解"><a href="#问题求解" class="headerlink" title="问题求解"></a>问题求解</h3><p>$T1$ 逻辑推理，画个表还是很轻松的</p>
-<p>$T2$ 小学奥数，而我居然错了……看来小升初那会儿都白学了QAQ</p>
-<h3 id="阅读程序写结果"><a href="#阅读程序写结果" class="headerlink" title="阅读程序写结果"></a>阅读程序写结果</h3><p>$T1$ 读一下就知道是大写字母加1，第一题还是一如既往的比较水……</p>
-<p>$T2$ 简单模拟无压力</p>
-<p>$T3$ 太毒了……一层一层递归下去怕不是要要人命……可能会有规律，但最终没找到，暴力推出来的结果也没对……</p>
-<p>$T4$ 其实还行，画个图，然后把一群遍历的连起来，数多少个环就行</p>
-<h3 id="完善程序"><a href="#完善程序" class="headerlink" title="完善程序"></a>完善程序</h3><p>$T1$ 还算比较友好，$gcd$ 用过不知多少遍了，需要注意的是 $getDivisor$ 函数复杂度是 $O(\sqrt{n})$ ，所以(1)应该填 $i*i$，其他空都还好。</p>
-<p>$T2$ 的(1)很明显是 $a[i]=x$，要不开个 $a[]$ 干啥。因为用链表，所以想到L和R相当于指针，(2)也出来了。</p>
-<p>$T2$ 的后三个空就很迷了……感觉第3个for循环里应该是对称的，所以填了 $R[a[i]]$ 和 $a[i]$，因为默认输出 $n+1$，所以最后填 $R[i]$ 。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>这次的分数实在意想不到，完善程序全对（包括最后蒙的3个空），阅读程序写结果错1个，问题求解错1个，选择题错4个（实在不会啊QAQ），最终估分 $79pts$</p>
-<p>听说HE今年的分数线大约35分，所以应该是稳过了？（这也太稳了吧……）</p>
-<p>真的很惊讶，自己能考出这样的成绩。</p>
-<p>感谢同桌ZSS的家长把这个竞赛介绍给我，也感谢洛谷给我一个学习的平台</p>
-<p>下月复赛，虽然不太有把握，但我一定会继续努力的！</p>
-<h2 id="多说几句"><a href="#多说几句" class="headerlink" title="多说几句"></a>多说几句</h2><p>去的时候看到场上有一半以上都是初一和小学的，顿时感觉凉凉，因为俗话说的好，如果一个比你小的OIer还比你强，你就可以退役了</p>
-<p>但是开考半个小时过后，他们就不约而同地先后停止了答题，然后开始抠指甲，画画和睡觉</p>
-<p>这都什么人啊……</p>
-<h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>最终得分 $75pts$，不知哪里玄学扣分……</p>
-<p>似乎拿到了HE $Rank 10$？信心++；</p>
-<p>开始加油准备复赛吧！</p>
-]]></content>
-      <tags>
-        <tag>OI</tag>
-        <tag>考试游记</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>一个简单的物理证明</title>
+      <link href="/2020/03/01/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%89%A9%E7%90%86%E8%AF%81%E6%98%8E/"/>
+      <url>/2020/03/01/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%89%A9%E7%90%86%E8%AF%81%E6%98%8E/</url>
+      
+        <content type="html"><![CDATA[<p><strong>求证：当物体通过凸透镜呈倒立放大实像时，向右移动物体和光屏并保持光屏上呈清晰的像，则光屏移动速度 $&gt;$ 物体移动速度</strong></p><p>设物距为 $u$ ，像距为 $v$ ，凸透镜焦距为 $f$ </p><p>并且由图中的情况，令 $f&lt;v&lt;2f,v&gt;2f$</p><p>则由之前学过的一个公式得</p><p>$ \frac{1}{u}+\frac{1}{v}=\frac{1}{f}$……①</p><a id="more"></a><p>这时候，在保持成清晰像的情况下，保持凸透镜焦距不变，把蜡烛和光屏向右动</p><p>则有$ \frac{1}{u-\Delta u}+\frac{1}{v+\Delta v}=\frac{1}{f}$……②</p><p>处理以上两式：</p><p>$fu+fv=uv$……③</p><p>$ fv+f\Delta v+fu-f\Delta u=uv+u\Delta v -v\Delta u-\Delta v\Delta u$……④</p><p>④$-$ ③得：</p><p>$f\Delta v-f\Delta u=u\Delta v -v\Delta u-\Delta v\Delta u$……⑤</p><p>和谐一下：</p><p>$(f-u+\Delta u)\Delta v=(f-v)\Delta u$</p><p>其中，按照我们设的，$u-\Delta u$ 即为移动后的 $u’$</p><p>则 $(f-u’)\Delta v=(f-v)\Delta u$</p><p>两边同除 $(f-u’)\Delta u$:</p><p>$\frac{\Delta v}{\Delta u}=\frac{f-v}{f-u’}$……⑥</p><p>然后就很神奇了</p><p>因为我们开头设 $f&lt;v&lt;2f,v&gt;2f$，这里能得出：</p><p>$f-v&gt;f-u’$</p><p>也就是：</p><p>$\frac{f-v}{f-u’}&gt;1$……⑦</p><p>可以带入⑥！！！于是： $\frac{\Delta v}{\Delta u}&gt;1$</p><p>即： $\Delta v&gt;\Delta u$</p><p>也就是，光屏的速度应该大于物体的速度</p><p><strong>证毕。</strong></p><p>后记：</p><p>推物理式子，好 快 活 啊（虽然结论比较显然……</p><p>小透明似乎是第一次被理科老师表扬？？？</p><p>群里的图片有个符号写反了不过无伤大雅（您的科学精神呢？</p><p>请允许我膨胀一会djsuwgvxjgcoepqpbfbe</p><p>（在？膨胀完了去把政史背了吧？</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 文化课 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>南线研学游记</title>
+      <link href="/2020/02/25/%E5%8D%97%E7%BA%BF%E7%A0%94%E5%AD%A6%E6%B8%B8%E8%AE%B0/"/>
+      <url>/2020/02/25/%E5%8D%97%E7%BA%BF%E7%A0%94%E5%AD%A6%E6%B8%B8%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>度过了充实，有些混乱而欢乐的南线研学，遂作此文以记之。（本文加密）</p><a id="more"></a><h2 id="Day-0-出发日"><a href="#Day-0-出发日" class="headerlink" title="$Day$ $0$ 出发日"></a>$Day$ $0$ 出发日</h2><p>三阶考完，没有体测，成绩未出，梦幻旅程！</p><p>出发！</p><p>坐地铁到了东站，和同学集合，和预想中的一样，我们四班声势浩大的队伍让外班人蒙蔽不已。</p><blockquote><p>本次研学团学生共59人，其中4班占36人</p></blockquote><p><strong>南线研学旅游团 $\rightarrow$ 厚朴四班观光团</strong></p><p>于是我们班包了一节硬卧车。</p><p>中铺，不错，锻炼攀爬技巧，且翻车风险较低。</p><p>对面是 $lzxt$，$lzxt$ 上面是 $ld$，好了，苏维埃分间安排上了</p><blockquote><p>$lzxt$：明天我6:30起来给你们放SL国歌</p><p>我：害怕.jpg</p></blockquote><p>和 $zpr$ , $zwb$ , $xjx$ , $lxy$ , $ld$ 打牌<del>开火车</del>，大概到九点多，主任来催睡觉了</p><p>于是回铺，又看了会儿下铺女生们玩剧情杀</p><blockquote><p>女生们：balabala吸毒balabala私生子balabalabala</p><p>我：？？？这也太入戏了吧？？？</p></blockquote><p>过了一会儿熄灯了，于是乖乖躺下</p><p>非常兴奋，睡不着，大概熬到了23:00。</p><h2 id="Day-1"><a href="#Day-1" class="headerlink" title="$Day$ $1$"></a>$Day$ $1$</h2><h3 id="失眠"><a href="#失眠" class="headerlink" title="失眠"></a>失眠</h3><p>1:00，我醒了。</p><p>被泰山站的灯活活照醒的。</p><p>灯太亮，帘子太薄，以至于旁边的 $lzxt$ 和 $ld$ 也醒了</p><p>扭头一看，我*怎么你也醒了，场面一度十分尴尬</p><p>老 $J$ 突然走过来，然后我们才知道一堆人甚至睡都没睡</p><p><del>那还睡个腚啊，起来嗨！！！</del>（当然是不可能的）</p><p>于是，僵卧铺上，心如止水，我要睡，我要睡，我要睡……</p><p>我要睡，我要睡！我！！要！！睡！！！！（逐渐暴躁）</p><p>旁边的 $ld$ 和 $lzxt$ 已经睡了，这时我突然意识到，我失眠了。</p><p>2:00，我没睡着。</p><p>2:30，我没睡着。</p><p>3:00，我没睡着。</p><p>忽然想起，包里有学校要求带的作业</p><p>于是果断开始写作业，我就不信这样我还困不了</p><p>4:30，我信了。</p><p>站在车厢连接处，写了十来个Unit的单词，我愣是没困。</p><p>一众失眠的同学们在狭窄的走廊里游荡，$ld$ 和 $lzxt$ 已经开始吃早饭了</p><p>没带多少吃的，不敢吃，于是又混了1h，5:40，吃上了鲜虾鱼板面。</p><p> <img src="/images/loading.png" data-original="%E6%96%B9%E4%BE%BF%E9%9D%A2.jpg" alt="人间美味"> </p><p>好吃，香，甜。</p><p>过了一会儿大家几乎都醒了，开始交流昨夜睡眠体验，逐渐演变为攀比谁最能熬</p><p><del>（我睡两个小时你能秒我？要是有人连两个小时都没睡够，我当场！就把这个电脑屏幕吃掉！！！</del></p><p>最后还是怂了，补了2小时的觉</p><p>再后来就是欢乐的打牌，吃零食，网易云音乐，十点多就到南京了。</p><h3 id="小插曲"><a href="#小插曲" class="headerlink" title="小插曲"></a>小插曲</h3><p>午餐的时候发现今天是同桌 $ylf$ 的生日？？？</p><p>于是旅行团送了个蛋糕，全团人分着吃了，真不错awa</p><p>（我太屑了居然没记住他生日，只能给他白嫖充电宝来谢罪了</p><p> <img src="/images/loading.png" data-original="ylf.jpg" alt> </p><h3 id="中山陵"><a href="#中山陵" class="headerlink" title="中山陵"></a>中山陵</h3><p>数台阶真有意思</p><p>顺着下坡路蹦跶真有意思</p><p>另外不少女生被小贩坑了十来块钱……当时一眼就看出来那个沙雕魔术的原理了不过……她们开心就好吧</p><p> <img src="/images/loading.png" data-original="%E8%80%81%E9%BC%A0%E5%B1%8E.jpg" alt></p><p>奇怪的食物增加了！ </p><h3 id="南大"><a href="#南大" class="headerlink" title="南大"></a>南大</h3><p>总结：投影很先进，座椅很舒服，小哥哥很帅，厕所设计理念也很先进，欢迎报考南京大学。</p><h3 id="酒店"><a href="#酒店" class="headerlink" title="酒店"></a>酒店</h3><p>“严禁黄赌毒，严禁携带笑气“</p><p>原来笑气是 $\ce{N2O}$ ，不愧是我嘿</p><p>和 $zpr$ , $lxy$ , $zwb$ , $xjx$ 打牌，斗地主，升级（打法逐渐触及知识盲区</p><p>大概昨天晚上太豪放了，很早就虚了，回房碎觉</p><h2 id="Day-2"><a href="#Day-2" class="headerlink" title="$Day$ $2$"></a>$Day$ $2$</h2><h3 id="西湖"><a href="#西湖" class="headerlink" title="西湖"></a>西湖</h3><p>早上去西湖，起雾了，而且下着雨，莫名朦胧美？拍得太丑，不放了</p><p>$ylf$ 买了根烤肠（-为什么要记这种事啊喂！-实在没事记，没办法</p><h3 id="浙大"><a href="#浙大" class="headerlink" title="浙大"></a>浙大</h3><p>拼榫卯真有意思</p><p>拍合影真没意思</p><p>（不，我不是针对拍合影，我指的是那种下着雨还要收伞反复拍的那种合影</p><h3 id="车上"><a href="#车上" class="headerlink" title="车上"></a>车上</h3><p>突然发现坐车的时间好好好好好好好长……</p><p><strong>厚朴四班观光团 $\rightarrow$ 交通工具鉴赏团</strong></p><p>于是狂睡，被 $zpr$ 拍到了帅气睡照（你听听这说的是人话吗</p><h3 id="上外"><a href="#上外" class="headerlink" title="上外"></a>上外</h3><p>上外的校史馆，1层似乎跟校史没关系，于是补了点语言知识？</p><p>送了纪念品，笔&amp;胸章，这就直接成为了其他学校比不上的存在</p><p>上海的雨也很大……（怕不是我们走到哪雨就下到哪）感谢 $zwb$ 给我蹭伞</p><p><img src="/images/loading.png" data-original="%E4%B8%8A%E5%A4%96.jpg" alt></p><p>鸡排，鸡蛋羹，鱼，水果，上外nb！</p><p>（上外大概是本次最有诚意的一所学校了</p><h3 id="外滩"><a href="#外滩" class="headerlink" title="外滩"></a>外滩</h3><p><img src="/images/loading.png" data-original="%E5%A4%96%E6%BB%A9.jpg" alt></p><p>唯一的感受：繁华。</p><blockquote><p>某xld：本次研学不设购物环节</p></blockquote><p>然后我们就在一个小店里买了一堆纪念品（以及天价方便面</p><h3 id="5016"><a href="#5016" class="headerlink" title="5016"></a>5016</h3><p>又到了小朋友们最爱的宾馆休息环节了</p><p>手机上的舟游下好了，这就很舒服了</p><p>于是一群男生（大概10个）溜到5016，<del>吃喝嫖赌</del></p><p>零食铺了一床，$hz$ , $zjf$ , 老 $J$ 他们在打三国杀，$lft$ , $ylf$ 打王者，$ld$ 和 $lzxt$ 日常F1，我就泡了碗面在旁边卑微打舟游剿灭</p><p>后来他们大家都打起了王者，$ylf$ 似乎因为某种原因被各种D</p><p>期间几次有人敲门，敲完就跑，<del>我们好不容易挤进窗帘后面你就这样对我们</del></p><p>舒舒服服，搞事到十点多，碎觉</p><h2 id="Day-3-返程日"><a href="#Day-3-返程日" class="headerlink" title="$Day$ $3$ 返程日"></a>$Day$ $3$ 返程日</h2><p>虽说是最后一天，要看的学校却是最多的……</p><p>雨还没停，再次感谢 $zwb$ 给我蹭伞</p><p>SH真大啊……<del>实名羡慕</del></p><h3 id="早饭"><a href="#早饭" class="headerlink" title="早饭"></a>早饭</h3><p><img src="/images/loading.png" data-original="%E6%97%A9%E9%A4%90.jpg" alt></p><p>不得不说，到了上海以后伙食质量是真的大提升</p><p>同样是自助，<del>就比前一天的看起来资本主义很多</del></p><p>不过那个烤面包机的作用似乎就只是给面包上个色……</p><h3 id="复旦"><a href="#复旦" class="headerlink" title="复旦"></a>复旦</h3><p>来之前对复旦的唯一印象：老番茄</p><p><img src="/images/loading.png" data-original="%E5%85%89%E8%8D%89.jpg" alt></p><p>果然看到了光草但是……全湿了，打滚的事还是别想了</p><h3 id="财大"><a href="#财大" class="headerlink" title="财大"></a>财大</h3><p>来之前对财大的唯一印象：财大nb！<del>（请适度玩梗谢谢</del></p><p><img src="/images/loading.png" data-original="cp.jpg" alt></p><p>啊啊啊 这对cp我站了！</p><h3 id="上交"><a href="#上交" class="headerlink" title="上交"></a>上交</h3><p>来之前对上交的唯一印象：上海脚痛大学<del>（宁还玩上瘾了？</del></p><h3 id="返程"><a href="#返程" class="headerlink" title="返程"></a>返程</h3><p>本来返程也是卧铺，然而第二天要返校，于是学校就让我们加钱订了更快的高铁</p><p><del>（我谢谢你啊？</del></p><p>于是我们全班就要在同一节车厢上一起坐六七个小时</p><p>先跟还是那拨人打了会儿牌，然后不知道什么时候，群里开始发画图红包</p><p><img src="/images/loading.png" data-original="%E6%8A%BD%E8%B1%A1.jpg" alt></p><p>瞬间沸腾，开始了抽象画技交流，抢1分不亦乐乎</p><p>老 $J$ 了一堆毒瘤语音红包，导致车厢里一度充满了“哈哈呼呼哈嘿嘿”之类的声音</p><p>牛奶就榨菜，香蕉就面包<del>，臭豆腐，俘虏，老干妈，简简单单的晚饭</del>（串味儿了喂</p><p>看 $lxy$ 打部落冲突（还是叫皇室战争来着？记不清了</p><p>充当人肉天线<del>（求神拜佛</del></p><p>欢乐补研学手册<del>，我们都是祖安人</del></p><p>然后发现很多人开始写作业了，想起自己带的作业第一天以后没动过，于是把单词篇子糊完了</p><p>合上单词篇子，收拾行李，小破庄，我回来了。</p><h2 id="Day-n-后记"><a href="#Day-n-后记" class="headerlink" title="$Day$ $n$ 后记"></a>$Day$ $n$ 后记</h2><p>感觉还是得记一下这次研学，所以把鸽了好长时间的坑又补回来了</p><p>虽然这几天很短暂，但我很开心，在毕业的最后一年，这个机会显得尤为珍贵</p><p><strong>不久的将来，当我们不得不在初中的终点站下车，在中考的枢纽各奔东西，我们都将带上回忆的行李，永不丢弃。</strong></p><p><strong>南线研学游记 · 完</strong></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>九上三阶游记</title>
+      <link href="/2020/01/12/%E4%B9%9D%E4%B8%8A%E4%B8%89%E9%98%B6%E6%B8%B8%E8%AE%B0/"/>
+      <url>/2020/01/12/%E4%B9%9D%E4%B8%8A%E4%B8%89%E9%98%B6%E6%B8%B8%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>之前一阶、二竞和二阶都咕掉了……三阶是这学期最后一次考试了，所以趁着没出成绩心态良好赶来 $mark$ 一下。</p><h2 id="Day-3"><a href="#Day-3" class="headerlink" title="$Day$ $-3$"></a>$Day$ $-3$</h2><p>考试前几天的时候心态崩了……（MVP：语文赏析），感觉整个人都虚掉了，以至于翘了一节语文早读在家里思考人生……</p><p>本来不想去了，但是第一节历史？？？</p><p>最后在$ylf$沙雕气息的感染下好了一些，不过感觉很不想考试……</p><a id="more"></a><h2 id="Day-1"><a href="#Day-1" class="headerlink" title="$Day$ $-1$"></a>$Day$ $-1$</h2><p>政治课，桥桥把九下重点标了，全班惊奇的发现原来就那么一点</p><p>这就好起来了。</p><p><code>信心++</code></p><h2 id="Day-0"><a href="#Day-0" class="headerlink" title="$Day$ $0$"></a>$Day$ $0$</h2><p>最后一晚，把语文赏析硬啃了下去，似乎也不那么难？（你大概不记得你前几天还被他虐哭）</p><p>放弃其它挣扎，睡jiojio</p><h2 id="Day-1-2"><a href="#Day-1-2" class="headerlink" title="$Day$ $1-2$"></a>$Day$ $1-2$</h2><p>利润可以是负的</p><p>英语是可以考法语的</p><p>作文是可以用来奶自己的</p><p>考间是可以量子波动复习的</p><p>另外，我还意识到我是一个在在欢迎会上向外国友人致感谢词时也不忘传播中华文化的社会主义优秀接班人</p><h3 id="小插曲"><a href="#小插曲" class="headerlink" title="小插曲"></a>小插曲</h3><p>周一温度$1$~$-11$，然而素质学校这时体测，然后</p><p>第一天晚上一群人拿着各种容器往操场上倒水</p><p>第二天早上全冻结实了哈哈哈哈哈哈哈哈哈哈</p><p>卓越学子展现出了空前的团结</p><p><code>卓越学子多才俊 是否体测未可知</code></p><h2 id="Day-3-1"><a href="#Day-3-1" class="headerlink" title="$Day$ $3$"></a>$Day$ $3$</h2><p><strong>奇迹发生了。</strong></p><p>操场上的人造冰最终没化开……体测推迟1天</p><p><strong>但是！！！</strong></p><blockquote><p>南线研学团出发时间：2月13日晚</p><p>研学同学体测取消，计入二阶体育成绩</p></blockquote><p><strong>吔！！！！！！！！！</strong></p><p>（他似乎忘了自己二阶体育扣了1分）</p><p>后续剧情，请见<strong>南线研学游记</strong></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 考试游记 </tag>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>九上一竟游记</title>
+      <link href="/2019/09/22/%E4%B9%9D%E4%B8%8A%E4%B8%80%E7%AB%9F%E6%B8%B8%E8%AE%B0/"/>
+      <url>/2019/09/22/%E4%B9%9D%E4%B8%8A%E4%B8%80%E7%AB%9F%E6%B8%B8%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="考前"><a href="#考前" class="headerlink" title="考前"></a>考前</h2><p>因为这次语文考察基础和名著，数外都正常考法，复习就成了一个比较玄学的事情，太细了搞不完，太粗了又怕翻车，所以过程中基本一直在<code>？？？</code>中度过</p><h2 id="考中"><a href="#考中" class="headerlink" title="考中"></a>考中</h2><h3 id="语文"><a href="#语文" class="headerlink" title="语文"></a>语文</h3><p>果然是基础题，但是还是有拿不准的字音，名著题还算比较和谐，没有什么鸡牛同笼之类的。</p><p><strong>然而你还是考不高</strong></p><h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p>一如既往的卡时交卷，听后桌dalao$XBW$对题，发现自己最后一问错了，写的三个答案两个应该舍，一个没算对，还有一个正确答案根本没想出来</p><a id="more"></a><p><strong>完蛋。</strong></p><h3 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h3><p>打开卷子，<strong>开 幕 雷 击</strong></p><p>审题人emmmmmm……有不祥的预感</p><p>后来的事实证明果然杨老师不鸣则已，一鸣惊人 </p><ul><li>阅读A篇是可以选诗歌的</li><li>阅读BC篇是可以做不出来的</li><li>阅读D篇是可以节选小说的</li><li>作文题是可以<del>摘抄</del>借鉴报纸的</li></ul><p>考完试的我，一脸安详</p><h2 id="考后"><a href="#考后" class="headerlink" title="考后"></a>考后</h2><h3 id="估分"><a href="#估分" class="headerlink" title="估分"></a>估分</h3><p>（这个铁憨憨去找别人对了几个答案</p><p>语文没对，不过知道自己最后捡回来$1pts$，名著答得感觉不太好，可能得扣很多</p><p>数学最后一题先$-2pts/4pts$，其他不知道</p><p>英语选择最后CD都有，不过$JPZ$看过小说原著说选D，那就是我错了，$-2pts$</p><p>考虑了一下这次分数大概是这样：</p><table><thead><tr><th></th><th>语文-100</th><th>数学-100</th><th>英语-100</th><th>总分</th></tr></thead><tbody><tr><td>最高估计</td><td>94</td><td>98</td><td>97</td><td>289</td></tr><tr><td>最低估计</td><td>85</td><td>95</td><td>94</td><td>274</td></tr></tbody></table><h3 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h3><p>我炸了，彻底炸了</p><p>英语作文玄学没审对题，直接5分没了，数学错填空了，最后的大题送我升天</p><p>于是这次语文考得最高？？？我佛了</p><p>不管怎样下次加油吧。。。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 考试游记 </tag>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>九上返校考试游记</title>
+      <link href="/2019/08/24/%E4%B9%9D%E4%B8%8A%E8%BF%94%E6%A0%A1%E8%80%83%E8%AF%95%E6%B8%B8%E8%AE%B0/"/>
+      <url>/2019/08/24/%E4%B9%9D%E4%B8%8A%E8%BF%94%E6%A0%A1%E8%80%83%E8%AF%95%E6%B8%B8%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前一天的晚上"><a href="#前一天的晚上" class="headerlink" title="前一天的晚上"></a>前一天的晚上</h2><p>诶这几天是不是要返校考试来着</p><p>……明天？！！</p><p>啊啊啊啊我要死了我政史啥知识点都没背语文三篇长古文也没看啊啊啊啊啊</p><p>（抓起政史看了一会儿后……</p><p>算了看不懂不看了，语文明天起早点背</p><h2 id="当天"><a href="#当天" class="headerlink" title="当天"></a>当天</h2><h3 id="考前"><a href="#考前" class="headerlink" title="考前"></a>考前</h3><p>？？？？为什么起床已经7:30了？？！</p><p>没事8:40才开考我还有救</p><p>……7:50到校交作业？</p><p>（哦豁，完蛋</p><p>$Rush$ 到学校，还是迟到了……</p><a id="more"></a><p>于是最后语文也没看，然后发现昨晚看的政史也忘得差不多了QAQ</p><p>人生不值得.^.</p><h3 id="考试"><a href="#考试" class="headerlink" title="考试"></a>考试</h3><h4 id="第一场-语文"><a href="#第一场-语文" class="headerlink" title="第一场 语文"></a>第一场 语文</h4><p>三篇长古文果然都考到了，然而毫无印象，$-4pts$ ；</p><p>错理解性默写，$-3pts$；</p><p>名著题：格列佛在小人国一天吃多少头牛，多少只鸡？</p><p>我吃你个牛皮螺旋大鸡腿！于是$-2pts$ ；</p><p>然后有一堆奇奇怪怪的注音和写词之类……乐观估计$-2pts$ ；</p><p>这次语文没有阅读，班里最高分大概能到$96-98/100pts$吧……而我现在乐观估计只有$89/100pts$……awsl……</p><hr><h4 id="第二场-数学"><a href="#第二场-数学" class="headerlink" title="第二场 数学"></a>第二场 数学</h4><p>由于之前把自己的底细摸得差不多了，心态倒是没有太崩，似乎没有什么好说的……</p><p>考完对了一道三角函数的答案，似乎对了？？不过不保证没有出其他的$sb$错误，先估个$95-100/100pts$吧……</p><hr><h4 id="第三场-文综"><a href="#第三场-文综" class="headerlink" title="第三场 文综"></a>第三场 文综</h4><p>可以说是我最怕的一场了，作业里政治玄学大题无话可说，历史看书愣没看懂？</p><p>（而且我连政史的九上课本都没买</p><p>做好了觉悟，陪$JPZ$上了可能是一生中最后一次的厕所后，开考了</p><p>先发的是政治，诶选择似乎有八下的题，那就很可做了，九上部分的选择作业里也有（虽然我忘了怎么选）</p><p>然后我看到了$10pts$的大题</p><p>啊啊啊啊啊啊啊怎么办怎么办我一点都没背啊啊啊！</p><p>无奈，只好从前面选择题瞎摘了几句话填上了，混了一会就发历史了</p><p>$OMG$，全是九上</p><p>于是凭着破碎的记忆和大国崛起上的情节苟过了选择</p><p>然后惊喜地发现：<strong>大题全是作业原题啊！</strong>（虽然还是忘了怎么写，但作业那题还挺简单的）</p><p>历史给的时间倒很长，检查了好多遍，就收卷了（虽然也没检查出什么，我本来就不会我还能怎么写）</p><p>两科的选择估计顶多$-8pts$，大题乐观估计$-5pts$左右吧，于是文综$97-105/110pts$滚了……</p><p>$JPZ$背过政治大题的原知识点，祝他$AK$文综</p><hr><h4 id="第四场-英语"><a href="#第四场-英语" class="headerlink" title="第四场 英语"></a>第四场 英语</h4><p>九年级英语书我也没有买，中午加急背单词……（感谢$LZXT$同志）</p><p>然而选词填空该不会的还是不会，差点还没写作文</p><p>选词$-3pts$，作文书写太烂$-2pts$，其他乱七八糟的扣$3-5pts$，最终估分$90-92/100pts$，我凉了</p><hr><h4 id="最终科-理综"><a href="#最终科-理综" class="headerlink" title="最终科 理综"></a>最终科 理综</h4><p>考理综还是比较轻松的，毕竟我暑假不务正业先修了好多理综</p><p>然而看到卷子……好吧，不主要考先修的吗……</p><p>然后就没啥好说的了，我和$JPZ$不谋而合在考场配起了某物质受热分解成$\ce{NH4,H2O,CO2}$的化学式，他说是$\ce{NH4HCO3}$，但我配的是$\ce{(NH4)2CO3}$</p><p>回来查了下，似乎都行，$\ce{NH4HCO3}$受热会先分解成$\ce{(NH4)2CO3,CO2}$和$\ce{H2O}$，$\ce{(NH4)2CO3}$再进一步分解成$\ce{NH4,H2O,CO2}$……</p><p>（喂，你好好考试没有</p><p>理综考得一言难尽……不感觉难，但也不感觉能满，估一个$145-150/150pts$吧……</p><hr><h4 id="估分总结"><a href="#估分总结" class="headerlink" title="估分总结"></a>估分总结</h4><table><thead><tr><th></th><th>语文</th><th>数学</th><th>英语</th><th>文综</th><th>理综</th><th>总分</th></tr></thead><tbody><tr><td><strong>满分</strong></td><td>100</td><td>100</td><td>100</td><td>110</td><td>150</td><td>560</td></tr><tr><td><strong>高估估计</strong></td><td>90</td><td>100</td><td>95</td><td>107</td><td>150</td><td>542</td></tr><tr><td><strong>最高估计</strong></td><td>89</td><td>100</td><td>92</td><td>105</td><td>150</td><td>536</td></tr><tr><td><strong>最低估计</strong></td><td>85</td><td>95</td><td>90</td><td>97</td><td>145</td><td>512</td></tr></tbody></table><p>另外，预测下这次各分数段的分数<strong>（不认真，不准确）</strong>：</p><table><thead><tr><th></th><th>语文</th><th>数学</th><th>英语</th><th>文综</th><th>理综</th><th>总分</th></tr></thead><tbody><tr><td><strong>班级前三</strong></td><td>96</td><td>100</td><td>97</td><td>108</td><td>150</td><td>551</td></tr><tr><td><strong>班级前十</strong></td><td>92</td><td>100</td><td>95</td><td>106</td><td>148</td><td>541</td></tr></tbody></table><p>总之，感觉有点悬……希望不要开门黑……</p><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>2019/8/27 出成绩了……</p><p>居然$Rank$ $5$？要被$JPZ$ 锤了……</p><p>政治满分居然是$60$……考 试 欺 诈</p><p>最后的成绩：</p><table><thead><tr><th>语文</th><th>数学</th><th>英语</th><th>文综</th><th>理综</th><th>总分</th><th>排名</th></tr></thead><tbody><tr><td>95</td><td>94</td><td>96</td><td>114</td><td>146</td><td>545</td><td>5</td></tr></tbody></table><p>估分差值：</p><table><thead><tr><th></th><th>语文</th><th>数学</th><th>英语</th><th>文综</th><th>理综</th><th>总分</th></tr></thead><tbody><tr><td><strong>高估</strong></td><td>+6</td><td>-6</td><td>+4</td><td>-1</td><td>-4</td><td>-1</td></tr><tr><td><strong>低估</strong></td><td>+10</td><td>-1</td><td>+6</td><td>+7</td><td>+1</td><td>+23</td></tr></tbody></table><p>怎么说呢，还挺准的</p><p>（准个屁）</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 考试游记 </tag>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Noip2018 PJ初赛总结</title>
+      <link href="/2018/10/14/Noip2018PJ%E5%88%9D%E8%B5%9B%E6%80%BB%E7%BB%93/"/>
+      <url>/2018/10/14/Noip2018PJ%E5%88%9D%E8%B5%9B%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>本篇首次发布于<a href="https://www.luogu.com.cn/blog/ZZprogramming/noip2018-pu-ji-chu-sai-zong-jie" target="_blank" rel="noopener">洛谷博客</a>，于2020年3月22日补档</p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>第一次参加 $OI$ 比赛，因为刚入 $OI$ 2个月，能考出这样的成绩也算是超常发挥了？就写个赛后总结来记录吧。</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>普及初赛13日下午在二中举行，考之前慌得一P，座位旁边一同校神犇，发卷后低声嘟囔：今年题好水啊，我无地自容……</p><h3 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h3><p>选择题大体来说还比较友好，今年变成了15×2分的题</p><a id="more"></a><p>CCF赞歌放在 $T5$，每次都考这种没用的真是……</p><p>$T10$ 是2013年原题……</p><p>$T13$ 考了数论，似乎是选择里第一次考数论？</p><p>$T14$ 考了位运算，也是以前很少考的</p><p>这次好像都没有逻辑运算……这次的题可以说是十分清奇了……</p><h3 id="问题求解"><a href="#问题求解" class="headerlink" title="问题求解"></a>问题求解</h3><p>$T1$ 逻辑推理，画个表还是很轻松的</p><p>$T2$ 小学奥数，而我居然错了……看来小升初那会儿都白学了QAQ</p><h3 id="阅读程序写结果"><a href="#阅读程序写结果" class="headerlink" title="阅读程序写结果"></a>阅读程序写结果</h3><p>$T1$ 读一下就知道是大写字母加1，第一题还是一如既往的比较水……</p><p>$T2$ 简单模拟无压力</p><p>$T3$ 太毒了……一层一层递归下去怕不是要要人命……可能会有规律，但最终没找到，暴力推出来的结果也没对……</p><p>$T4$ 其实还行，画个图，然后把一群遍历的连起来，数多少个环就行</p><h3 id="完善程序"><a href="#完善程序" class="headerlink" title="完善程序"></a>完善程序</h3><p>$T1$ 还算比较友好，$gcd$ 用过不知多少遍了，需要注意的是 $getDivisor$ 函数复杂度是 $O(\sqrt{n})$ ，所以(1)应该填 $i*i$，其他空都还好。</p><p>$T2$ 的(1)很明显是 $a[i]=x$，要不开个 $a[]$ 干啥。因为用链表，所以想到L和R相当于指针，(2)也出来了。</p><p>$T2$ 的后三个空就很迷了……感觉第3个for循环里应该是对称的，所以填了 $R[a[i]]$ 和 $a[i]$，因为默认输出 $n+1$，所以最后填 $R[i]$ 。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>这次的分数实在意想不到，完善程序全对（包括最后蒙的3个空），阅读程序写结果错1个，问题求解错1个，选择题错4个（实在不会啊QAQ），最终估分 $79pts$</p><p>听说HE今年的分数线大约35分，所以应该是稳过了？（这也太稳了吧……）</p><p>真的很惊讶，自己能考出这样的成绩。</p><p>感谢同桌ZSS的家长把这个竞赛介绍给我，也感谢洛谷给我一个学习的平台</p><p>下月复赛，虽然不太有把握，但我一定会继续努力的！</p><h2 id="多说几句"><a href="#多说几句" class="headerlink" title="多说几句"></a>多说几句</h2><p>去的时候看到场上有一半以上都是初一和小学的，顿时感觉凉凉，因为俗话说的好，如果一个比你小的OIer还比你强，你就可以退役了</p><p>但是开考半个小时过后，他们就不约而同地先后停止了答题，然后开始抠指甲，画画和睡觉</p><p>这都什么人啊……</p><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>最终得分 $75pts$，不知哪里玄学扣分……</p><p>似乎拿到了HE $Rank 10$？信心++；</p><p>开始加油准备复赛吧！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> OI </tag>
+            
+            <tag> 考试游记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
